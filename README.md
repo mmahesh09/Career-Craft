@@ -39,6 +39,12 @@ A key feature of the platform is the User Project Section, where users can share
 
 ## Tech Stack
 
+
+![image](https://github.com/mmahesh09/Career-Craft/blob/f13a79b134419eca50f76643932cc8fc51b5d9cb/assets/Career%20Craft%20-%20visual%20selection%20(1).png)
+
+
+
+
 | Technology       | Purpose/Usage in Project |
 |------------------|--------------------------|
 | **MongoDB**      | Used as the database to store user data, resumes, job descriptions, and project details in a scalable, NoSQL format. |
