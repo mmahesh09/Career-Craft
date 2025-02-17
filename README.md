@@ -26,3 +26,7 @@
 ## Problem Statement
 
 Job seekers often struggle with tailoring their resumes to specific job descriptions, resulting in missed opportunities. 43% of applicants don’t customize their resumes, neglecting important keywords that are vital for job matching. Additionally, resumes that don’t match at least 50% of the job description’s keywords are typically rejected by Applicant Tracking Systems (ATS). This project aims to address this problem by developing a tool that analyzes both resumes and job descriptions, suggesting relevant keyword optimizations to enhance keyword alignment and increase the likelihood of passing through ATS and catching the attention of hiring managers.
+
+## Agenda
+
+This project is a Resume and Job Description Analyzer built with the MERN stack. It enables users to upload resumes and paste job descriptions to generate tailored keyword analysis, match scores, and improvement suggestions. The platform features a User Project Section, where users can showcase their projects with descriptions, tags, and links to demos or repositories, fostering collaboration and inspiration. It leverages NLP-powered keyword extraction and similarity matching to identify skill gaps, recommend improvements, and align resumes with job requirements. The tool also includes searchable and filterable project listings, making it a valuable resource for job seekers and recruiters alike.
