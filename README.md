@@ -36,3 +36,17 @@ This project is a comprehensive *Resume and Job Description Analyzer** developed
 
 A key feature of the platform is the User Project Section, where users can share their personal projects, complete with detailed descriptions, relevant tags, and direct links to demos or source code repositories. This collaborative space fosters networking, inspiration, and knowledge sharing, while also providing recruiters with a richer profile of potential candidates.
 
+
+## Tech Stack
+
+| Technology       | Purpose/Usage in Project |
+|------------------|--------------------------|
+| **MongoDB**      | Used as the database to store user data, resumes, job descriptions, and project details in a scalable, NoSQL format. |
+| **Express.js**   | A web application framework for Node.js, used to handle API requests, perform backend processing, and facilitate communication between the frontend and Python backend (for TensorFlow). |
+| **React.js**     | Frontend framework to build a responsive, dynamic, and interactive user interface for uploading resumes, pasting job descriptions, and viewing analysis results. |
+| **Node.js**      | JavaScript runtime used to build the server-side logic of the application, handle API endpoints, and manage server interactions. |
+| **TensorFlow (Python)** | Used for NLP tasks such as keyword extraction, resume analysis, and job description matching through machine learning models. |
+| **spaCy (Python)** | NLP library utilized for efficient text processing, entity recognition, and improving resume and job description matching. |
+| **Vercel**       | Cloud platform for deploying the frontend and backend, providing a scalable, serverless solution for hosting the application. |
+| **GitHub**       | Used for version control, collaboration, and hosting the project's code and documentation. |
+| **Python**       | Used to run machine learning and NLP models, and execute data processing for job description and resume analysis. |
