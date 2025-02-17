@@ -21,3 +21,8 @@
 
 > "Resumes that match 50% or fewer keywords from a job description are almost always rejected by ATS systems."  
 > *-- LinkedIn*
+
+
+## Problem Statement
+
+Job seekers often struggle with tailoring their resumes to specific job descriptions, resulting in missed opportunities. 43% of applicants don’t customize their resumes, neglecting important keywords that are vital for job matching. Additionally, resumes that don’t match at least 50% of the job description’s keywords are typically rejected by Applicant Tracking Systems (ATS). This project aims to address this problem by developing a tool that analyzes both resumes and job descriptions, suggesting relevant keyword optimizations to enhance keyword alignment and increase the likelihood of passing through ATS and catching the attention of hiring managers.
