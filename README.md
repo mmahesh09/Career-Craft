@@ -1,3 +1,6 @@
+# Career Craft
+
+
 ![image](https://github.com/mmahesh09/Career-Craft/blob/5d1b40cffb9f28dbd7d4f3dc192fb1902d57a119/assets/Black%20Technology%20LinkedIn%20Banner%20(2).png)
 <div>
  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
@@ -11,7 +14,7 @@
 
 </div>
 
-# Career Craft
+
 
 > "43% of job seekers admit they don't tailor resumes to specific jobs, missing crucial keywords and increasing rejection risk."  
 > *-- Career Builder*
