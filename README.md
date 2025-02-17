@@ -29,4 +29,10 @@ Job seekers often struggle with tailoring their resumes to specific job descript
 
 ## Agenda
 
-This project is a Resume and Job Description Analyzer built with the MERN stack. It enables users to upload resumes and paste job descriptions to generate tailored keyword analysis, match scores, and improvement suggestions. The platform features a User Project Section, where users can showcase their projects with descriptions, tags, and links to demos or repositories, fostering collaboration and inspiration. It leverages NLP-powered keyword extraction and similarity matching to identify skill gaps, recommend improvements, and align resumes with job requirements. The tool also includes searchable and filterable project listings, making it a valuable resource for job seekers and recruiters alike.
+![image](https://github.com/mmahesh09/Career-Craft/blob/86db7dd87caa0830241d11edcd1dca5632d11823/assets/Career%20Craft%20-%20visual%20selection.png)
+
+
+This project is a comprehensive *Resume and Job Description Analyzer** developed using the *MERN stack (MongoDB, Express.js, React.js, Node.js)*, designed to streamline the job application process for both job seekers and recruiters. The platform allows users to upload their resumes and input job descriptions to generate tailored keyword analysis, match scores, and actionable suggestions for optimization. It leverages advanced **Natural Language Processing (NLP)** techniques to extract keywords and assess the alignment between resumes and job descriptions, helping users identify skill gaps, enhance keyword relevance, and optimize their resumes for Applicant Tracking Systems (ATS).
+
+A key feature of the platform is the User Project Section, where users can share their personal projects, complete with detailed descriptions, relevant tags, and direct links to demos or source code repositories. This collaborative space fosters networking, inspiration, and knowledge sharing, while also providing recruiters with a richer profile of potential candidates.
+
