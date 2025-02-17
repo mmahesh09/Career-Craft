@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logoColor=white&logo=nodedotjs&color=339933" alt="node.js" />
 <img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logoColor=white&logo=tensorflow&color=FF6F00" alt="tensorflow" />
 <img src="https://img.shields.io/badge/-SpaCy-black?style=for-the-badge&logoColor=white&logo=spacy&color=4A9A4D" alt="spaCy" />
-<img src="https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logoColor=white&logo=heroku&color=430098" alt="heroku" />
+<img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logoColor=white&logo=vercel&color=000000" alt="vercel" />
 <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logoColor=white&logo=github&color=181717" alt="github" />
 
 </div>
