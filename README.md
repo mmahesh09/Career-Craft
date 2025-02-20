@@ -56,3 +56,6 @@ A key feature of the platform is the User Project Section, where users can share
 | **Vercel**       | Cloud platform for deploying the frontend and backend, providing a scalable, serverless solution for hosting the application. |
 | **GitHub**       | Used for version control, collaboration, and hosting the project's code and documentation. |
 | **Python**       | Used to run machine learning and NLP models, and execute data processing for job description and resume analysis. |
+
+![image](https://github.com/mmahesh09/Career-Craft/blob/22d50282fae41688d6777a44d60ad169d48cf1cd/assets/Career%20Craft%20-%20visual%20selection%20(3).png)
+
