@@ -65,6 +65,16 @@ A key feature of the platform is the User Project Section, where users can share
 
 ![image](https://github.com/mmahesh09/Career-Craft/blob/22d50282fae41688d6777a44d60ad169d48cf1cd/assets/Career%20Craft%20-%20visual%20selection%20(3).png)
 
+### Core Features:
+1. Resume & Job Description Analyzer – Upload resumes and paste job descriptions to generate keyword analysis, match scores, and suggestions.
+2. AI-Powered Resume Optimization – NLP and TensorFlow-based keyword extraction to align resumes with job descriptions.
+3. Career Objective Generator – Automatically generate personalized career objectives based on extracted keywords.
+4. Skill Gap Analysis – Identifies missing skills and suggests improvements for better job alignment.
+5. Project Showcase Section – Users can showcase their projects with descriptions, tags, and repository links.
+6. Searchable & Filterable Projects – Explore projects by categories, skills, and relevance.
+
+### Repository
+
 **Cloning the Repository**
 ``` bash
 git clone https://github.com/mmahesh09/CareerCraft.git
@@ -80,7 +90,7 @@ npm install
 ```
 
 
-*** Did You Like the Project ***
+
 
 ### Support Me
 
