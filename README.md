@@ -65,3 +65,27 @@ A key feature of the platform is the User Project Section, where users can share
 
 ![image](https://github.com/mmahesh09/Career-Craft/blob/22d50282fae41688d6777a44d60ad169d48cf1cd/assets/Career%20Craft%20-%20visual%20selection%20(3).png)
 
+**Cloning the Repository**
+``` bash
+git clone https://github.com/mmahesh09/CareerCraft.git
+cd CareerCraft
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+
+*** Did You Like the Project ***
+
+### Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mahesh23">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
+  </a>
+</p>
